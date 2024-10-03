@@ -1,0 +1,94 @@
+{
+    "restaurants":[
+        {
+            "resId" : 101,
+            "resName" : "Jollibee",
+            "cusines" : 
+            ["Fried Chicken","Burgers","Fast Food"],
+            "avgRating" : 4.5,
+            "deliveryTime" : "within 30 mins",
+            "heroImage" : "https://res.cloudinary.com/dz5bjobs4/image/upload/v1727848015/photo-1727233430886-72cecea38e5f_egsnh0.jpg"
+        },
+        {
+            "resId" : 102,
+            "resName" : "BlinBerry",
+            "cusines" : 
+            ["Breakfast","Salad","Healthy"],
+            "avgRating" : 4,
+            "deliveryTime" : "within 40 mins",
+            "heroImage" : "https://res.cloudinary.com/dz5bjobs4/image/upload/v1727848167/photo-1726824861944-bd0ec97d38f0_sy84ge.jpg"
+        },
+        {
+            "resId" : 103,
+            "resName" : "Everyday Bowls",
+            "cusines" : 
+            ["Sandwiches","Salad","Bowls"],
+            "avgRating" : 4.2,
+            "deliveryTime" : "within 35 mins",
+            "heroImage" : "https://res.cloudinary.com/dz5bjobs4/image/upload/v1727848073/photo-1727056353989-adc5eb249699_inqkg5.jpg"
+        },
+        {
+           "resId" : 104,
+            "resName" : "SUBWICH",
+            "cusines" : 
+            ["Sandwiches","International"],
+            "avgRating" : 4.5,
+            "deliveryTime" : "within 26 mins",
+            "heroImage" : "https://res.cloudinary.com/dz5bjobs4/image/upload/v1727847956/photo-1727188624239-2d0fd9bef5c1_ljde71.jpg" 
+        },
+        {
+            "resId" : 105,
+             "resName" : "Starbucks",
+             "cusines" : 
+             ["Coffee","Breakfast","Bakery"],
+             "avgRating" : 4.2,
+             "deliveryTime" : "within 21 mins",
+             "heroImage" : "https://res.cloudinary.com/dz5bjobs4/image/upload/v1727847933/photo-1727280018679-def2652a4575_iljrrd.jpg" 
+         },
+         {
+            "resId" : 106,
+             "resName" : "Homus Restaurant",
+             "cusines" : 
+             ["Jordanian","Palestinian","Arabic"],
+             "avgRating" : 4.7,
+             "deliveryTime" : "within 30 mins",
+             "heroImage" : "https://res.cloudinary.com/dz5bjobs4/image/upload/v1727847882/photo-1727404518637-060ffb034dfb_qqgejn.jpg" 
+         },
+         {
+            "resId" : 107,
+             "resName" : "Tim Hortons",
+             "cusines" : 
+             ["Desserts","Coffee","Breakfast"],
+             "avgRating" : 4.2,
+             "deliveryTime" : "within 35 mins",
+             "heroImage" : "https://res.cloudinary.com/dz5bjobs4/image/upload/v1727847808/photo-1707551624163-58de226d9742_wjwr8k.jpg" 
+         },
+         {
+            "resId" : 108,
+             "resName" : "Manaesho",
+             "cusines" : 
+             ["Breakfast","Lebanese","Arabic","Wraps"],
+             "avgRating" : 4.5,
+             "deliveryTime" : "within 35 mins",
+             "heroImage" : "https://res.cloudinary.com/dz5bjobs4/image/upload/v1727847445/photo-1727629194666-163ec7ed8bcd_h0iffp.jpg" 
+         },
+         {
+            "resId" : 109,
+             "resName" : "Al Rabiah Al Khadhra",
+             "cusines" : 
+             ["Sandwiches","Salad","Vegan"],
+             "avgRating" : 4,
+             "deliveryTime" : "within 27 mins",
+             "heroImage" : "https://res.cloudinary.com/dz5bjobs4/image/upload/v1727847631/photo-1727645590516-a090dbebcf59_j2uahq.jpg" 
+         },
+         {
+            "resId" : 110,
+             "resName" : "La Famiglia Pizza",
+             "cusines" : 
+             ["Pizza","Ice Cream","Italian"],
+             "avgRating" : 4.2,
+             "deliveryTime" : "within 21 mins",
+             "heroImage" : "https://res.cloudinary.com/dz5bjobs4/image/upload/v1727847703/photo-1726325963923-c08934eed497_ezotdr.jpg" 
+         }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "comments": [
+      {
+        "id": 1,
+        "username": "john_doe",
+        "avatar": "https://example.com/avatar1.jpg",
+        "commentText": "This is a great article! Thanks for sharing.",
+        "timestamp": "2024-10-01T10:30:00Z",
+        "replies": [
+          {
+            "id": 101,
+            "username": "jane_smith",
+            "avatar": "https://example.com/avatar2.jpg",
+            "commentText": "I completely agree with you, John.",
+            "timestamp": "2024-10-01T11:00:00Z"
+          },
+          {
+            "id": 102,
+            "username": "alex_92",
+            "avatar": "https://example.com/avatar3.jpg",
+            "commentText": "Same here, it was very informative.",
+            "timestamp": "2024-10-01T11:15:00Z"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "username": "mary_jane",
+        "avatar": "https://example.com/avatar4.jpg",
+        "commentText": "I have a question about the second point you mentioned. Could you explain further?",
+        "timestamp": "2024-10-01T12:00:00Z",
+        "replies": [
+          {
+            "id": 103,
+            "username": "author",
+            "avatar": "https://example.com/avatar5.jpg",
+            "commentText": "Sure! The second point refers to...",
+            "timestamp": "2024-10-01T12:30:00Z"
+          }
+        ]
+      }
+    ]
+  }
+  
