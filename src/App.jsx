@@ -1,4 +1,4 @@
-import Header from "./components/header";
+import Header from "./components/Header";
 import CommentBox from "./components/CommentBox";
 import Footer from "./components/Footer";
 import { CommentProvider } from "./components/CommentContext";
